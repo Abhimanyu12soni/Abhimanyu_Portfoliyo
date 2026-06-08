@@ -32,12 +32,12 @@ const SOCIALS = [
   {
     icon: <FiGithub className="w-5 h-5" />,
     label: 'GitHub',
-    href: 'https://github.com',
+    href: 'https://github.com/Abhimanyu12soni',
   },
   {
     icon: <FiLinkedin className="w-5 h-5" />,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/',
+    href: 'https://www.linkedin.com/in/abhimanyu-soni-b94bbb258?utm_source=share_via&utm_content=profile&utm_medium=member_android',
   },
 ]
 

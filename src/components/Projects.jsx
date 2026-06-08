@@ -475,7 +475,7 @@ export default function Projects() {
               🚀 More projects coming soon as I continue learning!
             </p>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Abhimanyu12soni"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl

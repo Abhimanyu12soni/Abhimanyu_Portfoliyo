@@ -9,8 +9,8 @@ const FOOTER_LINKS = [
 ]
 
 const SOCIALS = [
-  { icon: <FiGithub className="w-4 h-4" />,   href: 'https://github.com',   label: 'GitHub'   },
-  { icon: <FiLinkedin className="w-4 h-4" />, href: 'https://linkedin.com', label: 'LinkedIn' },
+  { icon: <FiGithub className="w-4 h-4" />,   href: 'https://github.com/Abhimanyu12soni',   label: 'GitHub'   },
+  { icon: <FiLinkedin className="w-4 h-4" />, href: 'https://www.linkedin.com/in/abhimanyu-soni-b94bbb258?utm_source=share_via&utm_content=profile&utm_medium=member_android', label: 'LinkedIn' },
   { icon: <FiMail className="w-4 h-4" />,     href: 'mailto:Soniabhimanyu931@gmail.com', label: 'Email' },
 ]
 
