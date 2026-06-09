@@ -9,33 +9,34 @@ const SKILL_CATEGORIES = [
       { name: 'HTML5',       pct: 85 },
       { name: 'CSS3',        pct: 75 },
       { name: 'JavaScript',  pct: 60 },
+      { name: 'Python',  pct: 55 },
     ],
   },
   {
     title: 'Frameworks & Libraries',
     color: 'purple',
     skills: [
-      { name: 'React.js',        pct: 65 },
-      { name: 'Tailwind CSS',    pct: 60 },
-      { name: 'Bootstrap',       pct: 65 },
+      { name: 'React.js',        pct: 50 },
+      { name: 'Tailwind CSS',    pct: 55 },
+      { name: 'Bootstrap',       pct: 60 },
     ],
   },
   {
     title: 'Tools & Platforms',
     color: 'green',
     skills: [
-      { name: 'Git & GitHub',    pct: 68 },
-      { name: 'VS Code',         pct: 82 },
-      { name: 'Figma (Basic)',   pct: 45 },
+      { name: 'Git & GitHub',    pct: 62 },
+      { name: 'VS Code',         pct: 70 },
+      // { name: 'Figma (Basic)',   pct: 45 },
     ],
   },
   {
     title: 'Other Skills',
     color: 'orange',
     skills: [
-      { name: 'Responsive Design',   pct: 85 },
-      { name: 'REST API Integration', pct: 60 },
-      { name: 'npm / Vite',          pct: 72 },
+      { name: 'Wordprees CMS website',   pct: 75 },
+      { name: 'REST API Integration', pct: 55 },
+      { name: 'npm / Vite',          pct: 60 },
     ],
   },
 ]

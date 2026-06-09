@@ -1,25 +1,26 @@
-import { FiTarget, FiCode, FiBook, FiUser, FiMapPin, FiCalendar } from 'react-icons/fi'
-
-const HIGHLIGHTS = [
-  {
-    icon: <FiTarget className="w-5 h-5" />,
-    title: 'Career Goal',
-    desc: 'Become a skilled Frontend developer contributing to real-world software solutions.',
-    color: 'text-blue-500 bg-blue-50 dark:bg-blue-900/20',
-  },
-  {
-    icon: <FiCode className="w-5 h-5" />,
-    title: 'Core Skills',
-    desc: 'Strong foundation in React, JavaScript, Tailwind CSS, and problem-solving.',
-    color: 'text-purple-500 bg-purple-50 dark:bg-purple-900/20',
-  },
-  {
-    icon: <FiBook className="w-5 h-5" />,
-    title: 'Always Learning',
-    desc: 'Exploring advanced React, REST APIs, and Python with consistent daily practice.',
-    color: 'text-green-500 bg-green-50 dark:bg-green-900/20',
-  },
-]
+import { FiUser, FiMapPin, FiCalendar } from 'react-icons/fi'
+ 
+//  import { FiTarget, FiCode, FiBook, } from 'react-icons/fi'
+// const HIGHLIGHTS = [
+//   {
+//     icon: <FiTarget className="w-5 h-5" />,
+//     title: 'Career Goal',
+//     desc: 'Become a skilled Frontend developer contributing to real-world software solutions.',
+//     color: 'text-blue-500 bg-blue-50 dark:bg-blue-900/20',
+//   },
+//   {
+//     icon: <FiCode className="w-5 h-5" />,
+//     title: 'Core Skills',
+//     desc: 'Strong foundation in React, JavaScript, Tailwind CSS, and problem-solving.',
+//     color: 'text-purple-500 bg-purple-50 dark:bg-purple-900/20',
+//   },
+//   {
+//     icon: <FiBook className="w-5 h-5" />,
+//     title: 'Always Learning',
+//     desc: 'Exploring advanced React, REST APIs, and Python with consistent daily practice.',
+//     color: 'text-green-500 bg-green-50 dark:bg-green-900/20',
+//   },
+// ]
 
 const INFO_ITEMS = [
   {
@@ -231,34 +232,34 @@ export default function About() {
             </div>
 
             {/* ── Highlight Cards ── */}
-            <div className="grid sm:grid-cols-3 gap-3">
+            {/* <div className="grid sm:grid-cols-3 gap-3">
               {HIGHLIGHTS.map(({ icon, title, desc, color }) => (
                 <div
                   key={title}
                   className="glass-card p-4 rounded-2xl
                              hover:shadow-lg hover:-translate-y-1
                              transition-all duration-200 cursor-default"
-                >
+                > */}
                   {/* Icon box */}
-                  <div className={`w-9 h-9 rounded-xl flex items-center
+                  {/* <div className={`w-9 h-9 rounded-xl flex items-center
                                    justify-center mb-3 ${color}`}>
                     {icon}
-                  </div>
+                  </div> */}
 
                   {/* Title */}
-                  <h4 className="font-bold text-gray-800 dark:text-white
+                  {/* <h4 className="font-bold text-gray-800 dark:text-white
                                  text-sm mb-1">
                     {title}
-                  </h4>
+                  </h4> */}
 
                   {/* Description */}
-                  <p className="text-xs text-gray-500 dark:text-gray-400
+                  {/* <p className="text-xs text-gray-500 dark:text-gray-400
                                 leading-relaxed">
                     {desc}
-                  </p>
-                </div>
+                  </p> */}
+                {/* </div>
               ))}
-            </div>
+            </div> */}
 
           </div>
           {/* end RIGHT */}
