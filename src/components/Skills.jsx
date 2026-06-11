@@ -7,7 +7,7 @@ const SKILL_CATEGORIES = [
     color: 'blue',
     skills: [
       { name: 'HTML5',       pct: 85 },
-      { name: 'CSS3',        pct: 75 },
+      { name: 'CSS',        pct: 75 },
       { name: 'JavaScript',  pct: 60 },
       { name: 'Python',  pct: 55 },
     ],
@@ -41,8 +41,8 @@ const SKILL_CATEGORIES = [
   },
 ]
 
-const LEARNING_NOW  = ['Next.js', 'TypeScript']
-const EAGER_LEARN   = ['Redux Toolkit', 'React Query', 'Framer Motion', 'Node.js (Basics)', 'Firebase', 'Testing (Jest)', 'GraphQL', 'Storybook']
+const LEARNING_NOW  = ['React Query', 'Node.js (Basics)']
+const EAGER_LEARN   = [ 'SQL', 'TypeScript', 'Figma(UI Design)', 'Next.js', 'Storybook']
 
 // ✅ Har skill ki apni rating (1 se 5 ke beech)
 const SOFT_SKILLS = [

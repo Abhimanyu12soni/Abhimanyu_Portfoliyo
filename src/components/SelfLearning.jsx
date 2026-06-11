@@ -17,7 +17,7 @@ const ITEMS = [
   },
   {
     emoji: '✨',
-    title: 'JavaScript (ES6+)',
+    title: 'JavaScript Fundamentals',
     desc: 'Strengthening fundamentals — closures, promises, async/await, destructuring, array methods.',
     color: 'from-yellow-500 to-amber-600',
     bg: 'bg-yellow-50 dark:bg-yellow-900/20',

@@ -149,7 +149,7 @@ export default function About() {
               {/* ── Floating badge — top right ── */}
               <div className="absolute -top-9 -right-9 glass-card px-4 py-3
                               text-center shadow-xl shadow-black/5 min-w-[72px]">
-                <p className="text-2xl font-black text-blue-500 dark:text-blue-400 leading-none">3+</p>
+                <p className="text-2xl font-black text-blue-500 dark:text-blue-400 leading-none">2+</p>
                 <p className="text-[12px] text-gray-500 dark:text-gray-400
                               font-medium mt-0.5">
                   Years<br />Learning
@@ -159,7 +159,7 @@ export default function About() {
               {/* ── Floating badge — bottom left ── */}
               <div className="absolute -bottom-9 -left-9 glass-card px-4 py-3
                               text-center shadow-xl shadow-black/5 min-w-[72px]">
-                <p className="text-2xl font-black text-blue-500 dark:text-blue-400 leading-none">5+</p>
+                <p className="text-2xl font-black text-blue-500 dark:text-blue-400 leading-none">4+</p>
                 <p className="text-[12px] text-gray-500 dark:text-gray-400
                               font-medium mt-0.5">
                   Projects<br />Built
