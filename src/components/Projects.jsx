@@ -28,7 +28,7 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: 'Voice Cloning App',
+    title: 'Voice Cloning Web Application',
     subtitle: 'AI-Powered Voice Cloning & Translation',
     description:
       'An AI-powered voice cloning web application that clones voices using XTTS v2, transcribes speech with OpenAI Whisper, translates using Google Gemini API, and generates lip-synced video output — all through a clean web interface.',
